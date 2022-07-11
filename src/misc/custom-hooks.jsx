@@ -1,6 +1,7 @@
 import { useEffect, useReducer, useState } from "react";
 import { apiGet } from "../misc/config";
 
+
 function showsReducer(prevState, action) {
   switch (action.type) {
     case "ADD": {
