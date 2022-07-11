@@ -10,6 +10,7 @@ const ShowGrid = ({ data }) => {
   return (
     <FlexGrid>
       {data.map(({ show }) => {
+        
         const isStarred = starredShows.includes(show.id);
 
         const onStarClick = () => {
