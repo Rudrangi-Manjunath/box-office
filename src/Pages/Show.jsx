@@ -49,7 +49,7 @@ const Show = () => {
       })
       .catch((err) => {
         if (isMounted) {
-          dispatch({ type: "FETCH_FAIL", err: err.message });
+          dispatch({ type: "FETCH_FAIL", message: err.message });
         }
       });
 
