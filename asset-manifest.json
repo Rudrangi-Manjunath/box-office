@@ -1,7 +1,7 @@
 {
   "main.css": "/box-office/static/css/main.cfacfb3f.chunk.css",
-  "main.js": "/box-office/static/js/main.2977ece4.chunk.js",
-  "main.js.map": "/box-office/static/js/main.2977ece4.chunk.js.map",
+  "main.js": "/box-office/static/js/main.5487cb43.chunk.js",
+  "main.js.map": "/box-office/static/js/main.5487cb43.chunk.js.map",
   "runtime~main.js": "/box-office/static/js/runtime~main.dc8a7bce.js",
   "runtime~main.js.map": "/box-office/static/js/runtime~main.dc8a7bce.js.map",
   "static/js/2.3a726b9b.chunk.js": "/box-office/static/js/2.3a726b9b.chunk.js",
@@ -9,7 +9,7 @@
   "static/js/3.9209433f.chunk.js": "/box-office/static/js/3.9209433f.chunk.js",
   "static/js/3.9209433f.chunk.js.map": "/box-office/static/js/3.9209433f.chunk.js.map",
   "index.html": "/box-office/index.html",
-  "precache-manifest.673b1137b96cca113dc3aed754c2e17b.js": "/box-office/precache-manifest.673b1137b96cca113dc3aed754c2e17b.js",
+  "precache-manifest.025397972d90bfd549f9366edb19ad93.js": "/box-office/precache-manifest.025397972d90bfd549f9366edb19ad93.js",
   "service-worker.js": "/box-office/service-worker.js",
   "static/css/main.cfacfb3f.chunk.css.map": "/box-office/static/css/main.cfacfb3f.chunk.css.map"
 }
